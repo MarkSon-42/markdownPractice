@@ -15,11 +15,11 @@
   * 공백을 두개 추가하면 하위 페이지
     * 또 공백을 추가하면 하위 페이지의 하위 페이지로 
  
-'''java
+~~~java
 puliic class BootSpringBootApplication...{ 
   public static void main() {
   system~ }
   }
-'''
+~~~
 
 # 위 결과는 아마 문법이 맞지 않아서 테마 적용이 안될것 같다.
