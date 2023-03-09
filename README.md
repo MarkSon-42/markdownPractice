@@ -23,3 +23,7 @@ puliic class BootSpringBootApplication...{
 ~~~
 
 # 위 결과는 아마 문법이 맞지 않아서 테마 적용이 안될것 같다.
+
+# 맥에서는 '''java 가아니라 ~~~java게 표시가 된다
+
+#### 주석으로 ~~~을 하게되면 취소선이 생긴다.
