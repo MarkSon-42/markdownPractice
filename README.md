@@ -34,4 +34,5 @@ puliic class BootSpringBootApplication...{
 * email link(same) : <helloworld@example.com>
 
 
-![Alt text]
+![Alt text](/test.png)
+<img width="40%" height="30%"></img>
