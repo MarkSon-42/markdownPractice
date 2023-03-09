@@ -35,4 +35,4 @@ puliic class BootSpringBootApplication...{
 
 
 ![Alt text](/test.png)
-<img width="40%" height="30%"></img>
+<img width="40%" height="30%" src = "test.png"></img>
